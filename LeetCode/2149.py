@@ -13,3 +13,4 @@ class Solution:
                 neg_index +=2
                 
         return result
+    
