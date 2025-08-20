@@ -17,6 +17,7 @@ def binary_search(nums,target):
         else:
             low = mid + 1
         
+    return -1
         
 value_index =binary_search(nums,88)
 print(value_index)
