@@ -16,6 +16,8 @@ def binary_search(nums,low,high,target):
     else:
         binary_search(nums,mid+1,high,target)
         
+    return -1
+        
         
 binary_search(nums,0,len(nums)-1,88)
     
