@@ -1,4 +1,4 @@
-# finding 2nd largest element in an array [effective approach]
+
 nums = [ 55,23,12,99,45,67,34,0,-34,-45]
 
 def finding_2nd_largest(nums):
