@@ -1,5 +1,5 @@
 # check if an array is sorted or not 
-# Return True / False depending on it. 
+
 
 def check_sorted_array(nums):
   n= len(nums)
