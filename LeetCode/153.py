@@ -1,5 +1,5 @@
 
-nums = [ 4,5,6,7,0,1,2]
+nums = [ 4,5,6,7,10,1,2]
 
 
 def find_min_sorted_array(nums):
@@ -21,4 +21,4 @@ def find_min_sorted_array(nums):
     return min_val
 
 k=find_min_sorted_array(nums)
-print(k)
+print('minimum value : ' ,k)
