@@ -1,6 +1,6 @@
 # Definition for singly-linked list.
 # Problem : Find the node where the cycle begins in a linked list.
-# If there is no cycle, return null.
+# If there is no cycle, return None.
 
 class ListNode:
     def __init__(self, x):
